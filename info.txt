@@ -1,0 +1,1 @@
+Info.txt is my first text file created in bash and edited in VIM...yay
